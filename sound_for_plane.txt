@@ -3,7 +3,7 @@
 @outputs 
 @persist 
 @trigger 
-
+#Sound for plane
 runOnTick(10)
 
 E = entity()
